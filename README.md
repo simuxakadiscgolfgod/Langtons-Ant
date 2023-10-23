@@ -19,3 +19,5 @@ Happy experimenting!
 
 ## Examples
 ![Example 1](https://github.com/simuxakadiscgolfgod/Langtons-Ant/blob/main/example1.png)
+![Example 2](https://github.com/simuxakadiscgolfgod/Langtons-Ant/blob/main/example2.png)
+![Example 3](https://github.com/simuxakadiscgolfgod/Langtons-Ant/blob/main/example3.png)
