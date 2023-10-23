@@ -18,3 +18,4 @@ After the journey view the image and select if you want to save.
 Happy experimenting!  
 
 ## Examples
+![Example 1](https://github.com/simuxakadiscgolfgod/Langtons-Ant/blob/main/example1.png)
