@@ -14,7 +14,7 @@ ATTENTION!
 The journey's visualization significantly increases the runtime.  
 Increase the raised step or disable journey's visualization to boost the speed.
 
-After the journey view the image and select if you want to save.  
+After the journey, view the image and select if you want to save.  
 Happy experimenting!  
 
 ## Examples
